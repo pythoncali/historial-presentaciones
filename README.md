@@ -31,3 +31,32 @@ organizadas cronológicamente.
   * Stay classy with Python and Django [(29)](https://www.meetup.com/Python-Cali/events/227893637/)
 * 06-02-2016:
   * Configure Django the right way [(17)](https://www.meetup.com/Python-Cali/events/228426714/)
+* 20-02-2016:
+  * NoSQL en Django usando campos JSONField de PostgreSQL 9.4 [(15)](https://www.meetup.com/Python-Cali/events/228779718/)
+* 11-03-2017:
+  * Concurrencia en Python [(37)](https://www.meetup.com/Python-Cali/events/238141553/)
+* 07-04-2017:
+  * Introducción a la Computación Interactiva con Python [(70)](https://www.meetup.com/Python-Cali/events/238857498/)
+* 08-05-2017:
+  * Python es lento...y qué! [(40)](https://www.meetup.com/Python-Cali/events/239481918/)
+* 10-06-2017:
+  * Introducción al estilo Pythonista [(53)](https://www.meetup.com/Python-Cali/events/240121439/)
+* 15-07-2017:
+  * Desarrollo de Aplicaciones Python con Flask [(55)](https://www.meetup.com/Python-Cali/events/241375194/)
+* 12-08-2017:
+  * Unittesting paso a paso [(44)](https://www.meetup.com/Python-Cali/events/242279852/)
+* 09-09-2017:
+  * Especial de Inteligencia Artificial [(93)](https://www.meetup.com/Python-Cali/events/242928453/)
+* 07-10-2017:
+  * Chatbots y Web Scraping con Python [(47)](https://www.meetup.com/Python-Cali/events/243657679/)
+* 03-03-2018:
+  * Análisis de código estático: Yendo más allá de unittest y sus amigos [(19)](https://www.meetup.com/Python-Cali/events/248228222/)
+* 07-04-2018:
+  * Presentaciones con Hovercraft y despliegue con Docker [(86)](https://www.meetup.com/Python-Cali/events/248802660/)
+* 05-05-2018:
+  * Arquitecturas Multitenant y Server Side Rendering con Django [(80)](https://www.meetup.com/Python-Cali/events/250073977/)
+* 04-07-2018:
+  * Desarrollo de Software a la escala de Google [(108)](https://www.meetup.com/Python-Cali/events/251597725/)
+* 11-08-2018 [(56)](https://www.meetup.com/Python-Cali/events/252948899/):
+  * Introducción a webscrapers con python
+  * Blockchain a traves de los ojos de Python
