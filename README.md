@@ -42,19 +42,26 @@ organizadas cronológicamente.
 * 10-06-2017 [(53)](https://www.meetup.com/Python-Cali/events/240121439/):
   * Introducción al estilo Pythonista
 * 15-07-2017 [(55)](https://www.meetup.com/Python-Cali/events/241375194/):
-  * Desarrollo de Aplicaciones Python con Flask
+  * Flask Framework
+  * Decoradores en Python
 * 12-08-2017 [(44)](https://www.meetup.com/Python-Cali/events/242279852/):
   * Unittesting paso a paso
+  * Slicing en Python
 * 09-09-2017 [(93)](https://www.meetup.com/Python-Cali/events/242928453/):
-  * Especial de Inteligencia Artificial
+  * Introducción a Machine Learning con Python
+  * Procesamiento del lenguaje natural
 * 07-10-2017 [(47)](https://www.meetup.com/Python-Cali/events/243657679/):
-  * Chatbots y Web Scraping con Python
+  * Implementación de Chatbots con Python
+  * Introducción a Python Scrapy
 * 03-03-2018 [(19)](https://www.meetup.com/Python-Cali/events/248228222/):
   * Análisis de código estático: Yendo más allá de unittest y sus amigos
+  * Como traducir un sitio web con Django
 * 07-04-2018 [(86)](https://www.meetup.com/Python-Cali/events/248802660/):
-  * Presentaciones con Hovercraft y despliegue con Docker
+  * Hovercraft: Presentaciones tipo Prezi en PYthon
+  * Con la ballena a la nube: despliegue de Python con Docker
 * 05-05-2018 [(80)](https://www.meetup.com/Python-Cali/events/250073977/):
-  * Arquitecturas Multitenant y Server Side Rendering con Django
+  * Arquitecturas Multitenant
+  * Server Side Rendering con Django y React JS
 * 04-07-2018 [(108)](https://www.meetup.com/Python-Cali/events/251597725/):
   * Desarrollo de Software a la escala de Google
 * 11-08-2018 [(56)](https://www.meetup.com/Python-Cali/events/252948899/):
