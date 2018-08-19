@@ -20,7 +20,7 @@ organizadas cronológicamente.
 * 04-07-2015 [(22)](https://www.meetup.com/Python-Cali/events/223573322/):
   * Taller de Python 02
 * 22-08-2015 [(21)](https://www.meetup.com/Python-Cali/events/224615921/):
-  * Sistema de Plantillas de Django
+  * Sistema de Plantillas de Django - Carlos Millan
 * 05-09-2015 [(10)](https://www.meetup.com/Python-Cali/events/225103497/):
   * Hablemos de Python
 * 19-09-2015 [(26)](https://www.meetup.com/Python-Cali/events/225179493/):
