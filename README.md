@@ -24,7 +24,7 @@ organizadas cronológicamente.
 * 05-09-2015 [(10)](https://www.meetup.com/Python-Cali/events/225103497/):
   * Hablemos de Python
 * 19-09-2015 [(26)](https://www.meetup.com/Python-Cali/events/225179493/):
-  * Django Forms: Validating the World - [Cristian Vargas](https://github.com/cdvv7788)
+  * [Django Forms: Validating the World](https://github.com/pythoncali/forms_validation) - [Cristian Vargas](https://github.com/cdvv7788)
 * 10-10-2015 [(23)](https://www.meetup.com/Python-Cali/events/225469370/):
   * MongoDB + Django - [Julián Cantillo](https://github.com/juliancantillo)
   * Caso de Exito: Collector. Formularios para dispositivos móviles - Andrés Buitrago
@@ -39,9 +39,9 @@ organizadas cronológicamente.
 * 07-04-2017 [(70)](https://www.meetup.com/Python-Cali/events/238857498/):
   * Introducción a la Computación Interactiva con Python - [Sebastián Reyes](https://github.com/sebastian-code)
 * 08-05-2017 [(40)](https://www.meetup.com/Python-Cali/events/239481918/):
-  * Python es lento...y qué! - [Cristian Vargas](https://github.com/cdvv7788)
+  * [Python es lento...y qué!](https://github.com/pythoncali/python_slow_idc) - [Cristian Vargas](https://github.com/cdvv7788)
 * 10-06-2017 [(53)](https://www.meetup.com/Python-Cali/events/240121439/):
-  * Introducción al estilo Pythonista - [Milton Lenis](https://github.com/MiltonLn)
+  * [Introducción al estilo Pythonista](https://slides.com/swapps/introduccion-al-estilo-pythonista) - [Milton Lenis](https://github.com/MiltonLn)
 * 15-07-2017 [(55)](https://www.meetup.com/Python-Cali/events/241375194/):
   * Flask Framework - Ramiro Bedoya
   * Decoradores en Python - [Luis Carlos Martinez](https://github.com/pycarlos)
@@ -56,15 +56,15 @@ organizadas cronológicamente.
   * Introducción a Python Scrapy - [Guillermo Alvarez](https://github.com/guialante)
 * 03-03-2018 [(19)](https://www.meetup.com/Python-Cali/events/248228222/):
   * Análisis de código estático: Yendo más allá de unittest y sus amigos - [Sebastián Reyes](https://github.com/sebastian-code)
-  * Como traducir un sitio web con Django - [Milton Lenis](https://github.com/MiltonLn)
+  * [Como traducir un sitio web con Django](https://github.com/pythoncali/i18nable) - [Milton Lenis](https://github.com/MiltonLn)
 * 07-04-2018 [(86)](https://www.meetup.com/Python-Cali/events/248802660/):
-  * Hovercraft: Presentaciones tipo Prezi en Python - [Pedro Rivera](https://github.com/ppsirg)
-  * Con la ballena a la nube: despliegue de Python con Docker - [Mauricio Collazos](https://github.com/ma0c)
+  * [Hovercraft: Presentaciones tipo Prezi en Python](https://github.com/pythoncali/hovercraft-presentacion) - [Pedro Rivera](https://github.com/ppsirg)
+  * [Con la ballena a la nube: despliegue de Python con Docker](https://github.com/pythoncali/con-la-ballena-a-la-nube) - [Mauricio Collazos](https://github.com/ma0c)
 * 05-05-2018 [(80)](https://www.meetup.com/Python-Cali/events/250073977/):
   * Arquitecturas Multitenant - [Milton Lenis](https://github.com/MiltonLn)
   * Server Side Rendering con Django y React JS - Kevin Guevara
 * 04-07-2018 [(108)](https://www.meetup.com/Python-Cali/events/251597725/):
   * Desarrollo de Software a la escala de Google - Luis Fernando Pino Duque
 * 11-08-2018 [(56)](https://www.meetup.com/Python-Cali/events/252948899/):
-  * Introducción a webscrapers con python - Mauricio Cortazar
-  * Blockchain a traves de los ojos de Python - [Pedro Rivera](https://github.com/ppsirg)
+  * [Introducción a webscrapers con python](https://github.com/pythoncali/Scrapers-presentation) - Mauricio Cortazar
+  * [Blockchain a traves de los ojos de Python](https://github.com/pythoncali/blockchain-presentation) - [Pedro Rivera](https://github.com/ppsirg)
