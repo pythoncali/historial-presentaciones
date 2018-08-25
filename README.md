@@ -23,7 +23,7 @@ Si desea corregir, actualizar o adicionar información, por favor envíe un [pul
 * 22-08-2015 [(21)](https://www.meetup.com/Python-Cali/events/224615921/):
   * Sistema de Plantillas de Django - Carlos Millan
 * 05-09-2015 [(10)](https://www.meetup.com/Python-Cali/events/225103497/):
-  * Hablemos de Python
+  * Hablemos de Python - [Andres Gonzalez](https://github.com/andresgz)
 * 19-09-2015 [(26)](https://www.meetup.com/Python-Cali/events/225179493/):
   * [Django Forms: Validating the World](https://github.com/pythoncali/forms_validation) - [Cristian Vargas](https://github.com/cdvv7788)
 * 10-10-2015 [(23)](https://www.meetup.com/Python-Cali/events/225469370/):
