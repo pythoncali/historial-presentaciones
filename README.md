@@ -3,6 +3,7 @@
 A continuación se presenta el listado de las presentaciones realizadas en python cali,
 organizadas cronológicamente.
 Si desea corregir, actualizar o adicionar información, por favor envíe un [pull request](https://github.com/pythoncali/historial-presentaciones/pulls).
+Para información adicional acerca de futuros eventos, visita nuestro grupo de [meetup](https://www.meetup.com/Python-Cali/).
 
 * 12-06-2014 [(22)](https://www.meetup.com/Python-Cali/events/208759052/):
   * Introducción a Django 1.7
