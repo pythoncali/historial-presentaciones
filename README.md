@@ -70,6 +70,6 @@ Para información adicional acerca de futuros eventos, visita nuestro grupo de [
 * 11-08-2018 [(56)](https://www.meetup.com/Python-Cali/events/252948899/):
   * [Introducción a webscrapers con python](https://github.com/pythoncali/Scrapers-presentation) - Mauricio Cortazar
   * [Blockchain a traves de los ojos de Python](https://github.com/pythoncali/blockchain-presentation) - [Pedro Rivera](https://github.com/ppsirg)
-* 15-09-2018 [(102-)](https://www.meetup.com/Python-Cali/events/254454270/):
+* 15-09-2018 [(104)](https://www.meetup.com/Python-Cali/events/254454270/):
   * [Introducción a DataScience](https://github.com/pythoncali/historial-presentaciones/blob/master/15-09-2018/) - [Isabel Ruiz](https://github.com/iris9112)
   * [Artificial Neural Networks in Python](https://github.com/pythoncali/historial-presentaciones/blob/master/15-09-2018/) - [Cristian Vargas](https://github.com/cdvv7788)
