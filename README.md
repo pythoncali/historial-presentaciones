@@ -1,7 +1,7 @@
 # Presentaciones realizadas en python cali
 
 A continuación se presenta el listado de las presentaciones realizadas en python cali,
-organizadas cronológicamente.
+organizadas cronológicamente iniciando en la más reciente.
 Si desea corregir, actualizar o adicionar información, por favor envíe un [pull request](https://github.com/pythoncali/historial-presentaciones/pulls).
 Para información adicional acerca de futuros eventos, visita nuestro grupo de [meetup](https://www.meetup.com/Python-Cali/).
 
