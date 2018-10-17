@@ -23,7 +23,7 @@ Para información adicional acerca de futuros eventos, visita nuestro grupo de [
   * Análisis de código estático: Yendo más allá de unittest y sus amigos - [Sebastián Reyes](https://github.com/sebastian-code)
   * [Como traducir un sitio web con Django](https://github.com/pythoncali/i18nable) - [Milton Lenis](https://github.com/MiltonLn)
 * 07-10-2017 [(47)](https://www.meetup.com/Python-Cali/events/243657679/):
-  * Implementación de Chatbots con Python - [Mauricio Collazos](https://github.com/ma0c)
+  * [Implementación de Chatbots con Python](https://github.com/contraslash/chatbots-intro) - [Mauricio Collazos](https://github.com/ma0c)
   * Introducción a Python Scrapy - [Guillermo Alvarez](https://github.com/guialante)
 * 09-09-2017 [(93)](https://www.meetup.com/Python-Cali/events/242928453/):
   * Introducción a Machine Learning con Python - [Camilo Herrera](https://github.com/mrzork)
