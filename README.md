@@ -6,7 +6,7 @@ Si desea corregir, actualizar o adicionar información, por favor envíe un [pul
 Para información adicional acerca de futuros eventos, visita nuestro grupo de [meetup](https://www.meetup.com/Python-Cali/).
 
 * 01-12-2018 [(102)](https://www.meetup.com/Python-Cali/events/256544047/):
-  * [Web asíncrona con Django Channels](https://github.com/pythoncali/historial-presentaciones/blob/master/01-12-2018/) [Código](https://github.com/dafer154/questions-realTime) - [David Zuluaga](https://github.com/dafer154)
+  * [Web asíncrona con Django Channels](https://github.com/pythoncali/historial-presentaciones/blob/master/01-12-2018/) ([Código](https://github.com/dafer154/questions-realTime)) - [David Zuluaga](https://github.com/dafer154)
   * [Serverless con Python](https://github.com/contraslash/serverless-con-python) - [Mauricio Collazos](https://github.com/ma0c)
   * [Machine learning para identificar deserción académica TIC](https://github.com/pythoncali/historial-presentaciones/blob/master/01-12-2018/) - [Jonatan Ordoñez](https://github.com/jonatanordonez) y Yesid Lopez
 * 15-09-2018 [(104)](https://www.meetup.com/Python-Cali/events/254454270/):
