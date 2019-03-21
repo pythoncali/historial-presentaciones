@@ -5,6 +5,9 @@ organizadas cronológicamente iniciando en la más reciente.
 Si desea corregir, actualizar o adicionar información, por favor envíe un [pull request](https://github.com/pythoncali/historial-presentaciones/pulls).
 Para información adicional acerca de futuros eventos, visita nuestro grupo de [meetup](https://www.meetup.com/Python-Cali/).
 
+* 06-04-2019 [(44)](https://www.meetup.com/Python-Cali/events/259964772/):
+  * Introducción a OpenCV - Mauricio Cortazar
+  * [Automatizando el hogar con Python Raspberry PI y Reconocimiento de voz](https://github.com/contraslash/automatizacion-hogar-raspberry-python) - [Mauricio Collazos](https://github.com/ma0c)
 * 02-03-2019 [(44)](https://www.meetup.com/Python-Cali/events/259265858/):
   * Text generation with Pytorch and Google Colab - [José Luis Ariza](https://github.com/jlariza)
   * Getting started with numpy - [Juan Manuel Alvarez](https://github.com/Alvquijuan)
