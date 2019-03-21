@@ -5,6 +5,9 @@ organizadas cronológicamente iniciando en la más reciente.
 Si desea corregir, actualizar o adicionar información, por favor envíe un [pull request](https://github.com/pythoncali/historial-presentaciones/pulls).
 Para información adicional acerca de futuros eventos, visita nuestro grupo de [meetup](https://www.meetup.com/Python-Cali/).
 
+* 02-03-2019 [(44)](https://www.meetup.com/Python-Cali/events/259265858/):
+  * Text generation with Pytorch and Google Colab - [José Luis Ariza](https://github.com/jlariza)
+  * Getting started with numpy - [Juan Manuel Alvarez](https://github.com/Alvquijuan)
 * 01-12-2018 [(102)](https://www.meetup.com/Python-Cali/events/256544047/):
   * [Web asíncrona con Django Channels](https://github.com/pythoncali/historial-presentaciones/blob/master/01-12-2018/) ([Código](https://github.com/dafer154/questions-realTime)) - [David Zuluaga](https://github.com/dafer154)
   * [Serverless con Python](https://github.com/contraslash/serverless-con-python) - [Mauricio Collazos](https://github.com/ma0c)
