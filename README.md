@@ -6,7 +6,7 @@ Si desea corregir, actualizar o adicionar información, por favor envíe un [pul
 Para información adicional acerca de futuros eventos, visita nuestro grupo de [meetup](https://www.meetup.com/Python-Cali/).
 
 * 06-04-2019 [(44)](https://www.meetup.com/Python-Cali/events/259964772/):
-  * Introducción a OpenCV - Mauricio Cortazar
+  * [Introducción a OpenCV](https://github.com/metrafull2/Intro-OpenCV) - [Mauricio Cortazar](https://github.com/metrafull2)
   * [Automatizando el hogar con Python Raspberry PI y Reconocimiento de voz](https://github.com/contraslash/automatizacion-hogar-raspberry-python) - [Mauricio Collazos](https://github.com/ma0c)
 * 02-03-2019 [(44)](https://www.meetup.com/Python-Cali/events/259265858/):
   * Text generation with Pytorch and Google Colab - [José Luis Ariza](https://github.com/jlariza)
@@ -19,7 +19,7 @@ Para información adicional acerca de futuros eventos, visita nuestro grupo de [
   * [Introducción a DataScience](https://github.com/pythoncali/historial-presentaciones/blob/master/15-09-2018/) - [Isabel Ruiz](https://github.com/iris9112)
   * [Artificial Neural Networks in Python](https://github.com/pythoncali/historial-presentaciones/blob/master/15-09-2018/) - [Cristian Vargas](https://github.com/cdvv7788)
 * 11-08-2018 [(56)](https://www.meetup.com/Python-Cali/events/252948899/):
-  * [Introducción a webscrapers con python](https://github.com/pythoncali/Scrapers-presentation) - Mauricio Cortazar
+  * [Introducción a webscrapers con python](https://github.com/pythoncali/Scrapers-presentation) - [Mauricio Cortazar](https://github.com/metrafull2)
   * [Blockchain a traves de los ojos de Python](https://github.com/pythoncali/blockchain-presentation) - [Pedro Rivera](https://github.com/ppsirg)
 * 04-07-2018 [(108)](https://www.meetup.com/Python-Cali/events/251597725/):
   * Desarrollo de Software a la escala de Google - Luis Fernando Pino Duque
