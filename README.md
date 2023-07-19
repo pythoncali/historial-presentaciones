@@ -5,6 +5,9 @@ organizadas cronológicamente iniciando en la más reciente.
 Si desea corregir, actualizar o adicionar información, por favor envíe un [pull request](https://github.com/pythoncali/historial-presentaciones/pulls).
 Para información adicional acerca de futuros eventos, visita nuestro grupo de [meetup](https://www.meetup.com/Python-Cali/).
 
+* 15-07-2023 [(44)](https://www.meetup.com/python-cali/events/294725188/):
+  * Python Cali 2023 - [Andres Gonzalez](https://github.com/andresgz)
+  * [Middlewares y context processors: Cómo modificar la respuesta fuera de la vista en Django](https://github.com/pythoncali/historial-presentaciones/blob/master/15-07-2023/) - [José Luis Ariza](https://github.com/jlariza)
 * 06-04-2019 [(44)](https://www.meetup.com/Python-Cali/events/259964772/):
   * [Introducción a OpenCV](https://github.com/metrafull2/Intro-OpenCV) - [Mauricio Cortazar](https://github.com/metrafull2)
   * [Automatizando el hogar con Python Raspberry PI y Reconocimiento de voz](https://github.com/contraslash/automatizacion-hogar-raspberry-python) - [Mauricio Collazos](https://github.com/ma0c)
